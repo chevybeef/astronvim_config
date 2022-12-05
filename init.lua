@@ -304,9 +304,9 @@ local config = {
             path = 250,
         },
         -- My CMP increase keyword length
-        -- completion = {
-        -- keyword_length = 3,
-        -- },
+        completion = {
+            keyword_length = 3,
+        },
     },
 
     -- Modify which-key registration (Use this with mappings table in the above.)
